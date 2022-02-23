@@ -1,7 +1,7 @@
 package sec01;
 
 public class PrintTest {
-	
+
 	// 출력문 및 주석 실습
 	public static void main(String[] args) {
 
@@ -16,7 +16,7 @@ public class PrintTest {
 		/*
 		 * 여러 줄 주석입니다.
 		 */
-		
+
 		// 주석 단축키는 ctrl + / 또는 ctrl + shift + c
 
 		System.out.printf("%d \n", 10); // 정수(10)를 10진수로 출력
